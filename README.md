@@ -45,9 +45,9 @@ This repository documents my progress as I learn Java from the ground up with th
 
 ---
 
-## 📌 Daily Progress
+## 📌 Progress
 
-| Day | Topic | Status |
+| Sr | Topic | Status |
 |-----|-------|--------|
 | 1 | Java Setup & Hello World | ✅ |
 | 2 | Variables & Data Types | ✅ |
