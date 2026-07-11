@@ -1,5 +1,3 @@
-package Day8;
-
 import java.util.Arrays;
 
 public class Sort {
